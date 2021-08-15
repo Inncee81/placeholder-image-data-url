@@ -1,0 +1,12 @@
+{
+  "name": "placeholder-image-data-url",
+  "version": "1.0.1",
+  "description": "Generate Data URL of placeholder images for given width and height",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharunoptimus/placeholder-image-data-url.git"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
+}
