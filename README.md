@@ -50,7 +50,7 @@ app.get("/:width/:height/:text/:color", async (req, res) => {
 
 - Access the page at `http://localhost:3003/150/150/meow/444444
 
-![](output.png)
+![](https://raw.githubusercontent.com/tharunoptimus/placeholder-image-data-url/main/output.png)
 
 ## Dependencies
 - [canvas](https://www.npmjs.com/package/canvas) for the image generation
