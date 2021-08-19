@@ -1,5 +1,5 @@
 {
-  "name": "placeholder-image-data-url",
+  "name": "@tharunoptimus/placeholder-image-data-url",
   "version": "1.0.1",
   "description": "Generate Data URL of placeholder images for given width and height",
   "repository": {
@@ -8,5 +8,8 @@
   },
   "dependencies": {
     "canvas": "^2.8.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
